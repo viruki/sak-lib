@@ -21,4 +21,4 @@ Ideal para projetos rápidos, landing pages, dashboards, apps web e protótipos.
 ## 📦 Instalação via CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SEU_USUARIO/saklib/saklib.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viruki/sak-lib/style.css">
